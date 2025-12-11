@@ -6,7 +6,14 @@
 [![Platform](https://img.shields.io/badge/iOS-17.0+-black?style=for-the-badge&logo=apple)](https://www.apple.com/ios)
 [![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
 
+
 ---
+<img width="230" height="470" alt="image" src="https://github.com/user-attachments/assets/baa56989-372c-45ac-84fd-51564347c11c" />
+<img width="230" height="470" alt="image" src="https://github.com/user-attachments/assets/8be8bd86-f9f8-49c2-aa3b-cc18ddc8e087" />
+<img width="230" height="470" alt="image" src="https://github.com/user-attachments/assets/fd848f87-394f-41ae-9784-9f281ea68231" />
+
+
+
 
 ## 📱 What Is Sonico?
 
@@ -173,8 +180,3 @@ Sonico solves **music discovery paralysis** - the overwhelming feeling of having
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><img src="Screenshots/swipe.png" width="200"/></td>
-    <td><img src="Screenshots/favorites.png" width="200"/></td>
-    <td><img src="Screens
