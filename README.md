@@ -1,5 +1,10 @@
 # 🎵 Sonico - iOS Music Discovery App
 
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the [LICENSE](LICENSE) file for more details.
+
+Commercial use of this project is prohibited.
+
+
 > iOS app that helps users discover new music through an intuitive Tinder-style swipe interface and intelligent recommendations.
 
 [![App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](YOUR_APP_STORE_LINK)
@@ -107,5 +112,7 @@ Sonico solves **music discovery paralysis** - the overwhelming feeling of having
 - Cloud backup of liked songs
 
 ---
+
+
 
 
