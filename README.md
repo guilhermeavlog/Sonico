@@ -30,7 +30,6 @@ Sonico solves **music discovery paralysis** - the overwhelming feeling of having
 
 ## 🎯 Key Achievements
 
-- ✅ **Published to App Store** - Complete product lifecycle from concept to launch
 - ⚡ **3x Performance Improvement** - Reduced load time from 8s to 2s
 - 🎨 **Featured-Quality UI** - Professional design with smooth animations
 
